@@ -1,0 +1,13 @@
+{
+  "name": "mypackage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "dev1": "nodemon test/index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
